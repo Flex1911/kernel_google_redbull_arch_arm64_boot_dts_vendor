@@ -1,0 +1,8 @@
+[submodule "qcom/camera"]
+	path = qcom/camera
+	url = https://android.googlesource.com/kernel/msm-extra/camera-devicetree
+	branch = android-msm-redfin-4.19-android11-qpr1
+[submodule "qcom/display"]
+	path = qcom/display
+	url = https://android.googlesource.com/kernel/msm-extra/display-devicetree
+	branch = android-msm-redfin-4.19-android11-qpr1
